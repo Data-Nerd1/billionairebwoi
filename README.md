@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Israel Paul
+- 👋 Hi, I’m @Israel Paul Eseigbe
 - 👀 I’m interested in Data Analysis.
 - 🔍 What I Do:
               Excel,
