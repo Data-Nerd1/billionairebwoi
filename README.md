@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @billionairebwoi
-- 👀 I’m interested in full stack web dev.
-- 🌱 I’m currently learning javascript 
+- 👋 Hi, I’m @Israel Paul
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning Tableu 
 - 💞️ I’m looking to collaborate on exciting projects
-- 📫 How to reach me email ( emperor.paul07@gmail.com
+- 📫 How to reach me email (emperor.paul07@gmail.com)
 
 <!---
 billionairebwoi/billionairebwoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
