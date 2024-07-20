@@ -4,7 +4,7 @@
               Excel,
               SQL,
               Power BI. 
-- 🌱 I’m currently learning Tableu 
+- 🌱 I am also a Mentor/Trainer 
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me email (emperor.paul07@gmail.com)
 
